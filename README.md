@@ -10,7 +10,7 @@
 -->
 
 ### &#x1f4c8; My GitHub Stats
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight">
+<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
