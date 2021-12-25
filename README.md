@@ -3,6 +3,11 @@
 
 I'm a second-year CS student based in Portland, OR. I'm currently learning and practicing web development. Fell free to contact me on a collab project :construction_worker: :construction_worker: :wrench: :hammer:
 
+- 🔭 I’m currently working on [freeCodeCamp Basic Node and Express solution](https://github.com/mia-7-7/freeCodeCamp_Basic-Node-and-Express)
+- 🌱 I’m currently learning server-side with Node.js 
+- 👯 I’m looking to collaborate on full stack projects
+- 📫 How to reach me: mia-7777@mail.com
+
 ![](https://komarev.com/ghpvc/?username=mia-7-7&color=green)
 ---
 
