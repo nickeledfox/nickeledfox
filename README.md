@@ -1,7 +1,9 @@
-### Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> 
+
 
 I'm a second-year CS student based in Portland, OR. I'm currently learning and practicing web development. Fell free to contact me on a collab project :construction_worker: :construction_worker: :wrench: :hammer:
 
+![](https://komarev.com/ghpvc/?username=mia-7-7&color=green)
 ---
 
 <!--🧰 Toolbox
@@ -16,7 +18,6 @@ I'm a second-year CS student based in Portland, OR. I'm currently learning and p
 <!-- <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight"> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
