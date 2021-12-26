@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [freeCodeCamp Basic Node and Express solution](https://github.com/mia-7-7/freeCodeCamp_Basic-Node-and-Express)
+<!-- - 🔭 I’m currently working on []() -->
 - 🌱 I’m currently learning server-side with Node.js 
 - 👯 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: mia-7777@mail.com
