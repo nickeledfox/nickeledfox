@@ -5,7 +5,7 @@
 <!-- - 🔭 I’m currently working on []() -->
 - 🌱 I’m currently learning server-side with Node.js 
 - 👯 I’m looking to collaborate on full stack projects
-- 📫 How to reach me: mia-d@mail.com
+- 📫 How to reach me: mia-7777@mail.com
 
 ![](https://komarev.com/ghpvc/?username=mia-7-7&color=green)
 ---
