@@ -11,10 +11,11 @@
 ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&hide=html&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) 
  
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&langs_count=6&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&exclude_repo=map-fetching&&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
  
  _NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
  
+
  
 <!--🧰 Toolbox
 
