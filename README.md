@@ -1,4 +1,6 @@
-### Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> ![](https://komarev.com/ghpvc/?username=mia-7-7&color=green)
+### Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> 
+
+<!-- ![](https://komarev.com/ghpvc/?username=mia-7-7&color=green) -->
 
 <!-- - 🔭 I’m currently working on []() -->
 - 🌱 I’m currently learning Vue.js 
