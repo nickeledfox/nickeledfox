@@ -10,10 +10,10 @@
  ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight"> 
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight"> 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&hide=html&layout=compact&theme=blueberry"> 
+  <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&hide=html&layout=compact&theme=blueberry"> 
 </a>
 
 ---
