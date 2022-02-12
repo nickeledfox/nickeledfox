@@ -111,10 +111,6 @@
 
 <!-- <img src="https://img.shields.io/badge/-ReactJs-61DAFB"> -->
 
-
-
-
-
 <!--
 **mia-7-7/mia-7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
