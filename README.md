@@ -24,41 +24,41 @@
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
 <!-- Yarn  -->
  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152867506-33dd3e0c-4f7c-4a6d-9084-d37e4be3d7e4.png" alt="yarn" width="43" height="40"/> </a>
- <!-- Gulp/Grunt  -->
+ <!-- Gulp/Grunt -->
  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152888597-f58e02c3-8223-42e1-9b17-42a3e3a295a9.png" alt="gulp/grunt" height="53"/> </a>
-<!-- Webpack  -->
+<!-- Webpack -->
  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="wrbpack" width="40" height="45"/> </a> 
- <!-- Babel  -->
+ <!-- Babel -->
  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/81501711/152870559-8bc02ef6-3bf8-4fc1-a152-53dcaf5b8724.png" alt="babel" width="40" height="40"/> </a> 
 <!-- Bootstrap -->
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<!-- Bulma  -->
+<!-- Bulma -->
  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
 <!-- Express -->
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4da8fbe32d03f3cd0c099af887ce14d1bff01c3325501bae56bc5ca9563548f9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246766563746f7269666965642e636f6d253246696d61676573253246657870726573732d6a732d69636f6e2d32302e706e6726663d31266e6f66623d31" alt="express" width="40" height="40"/> </a> 
- <!-- Nunjucks  -->
+ <!-- Nunjucks -->
  <a href="https://mozilla.github.io/nunjucks/" target="_blank" rel="noreferrer"> <img src="https://eseom.gallerycdn.vsassets.io/extensions/eseom/nunjucks-template/0.4.2/1620376601793/Microsoft.VisualStudio.Services.Icons.Default" alt="nunjucks" height="40"/></a>
-<!-- Figma  -->
+<!-- Figma -->
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<!-- Firebase  -->
+<!-- Firebase -->
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <!--  Flask -->
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152876308-412339ca-0d43-4912-8f38-edb3a7c7eb8d.png" alt="flask" width="40" height="45"/> </a> 
 <!--  Git -->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<!--  Graphql -->
+<!-- Graphql -->
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  
-<!--  Heroku -->
+<!-- Heroku -->
  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<!--  Jasmine -->
+<!-- Jasmine -->
  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
-<!-- Mocha  -->
+<!-- Mocha -->
  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" height="42"/> </a> 
-<!-- MongoDB  -->
+<!-- MongoDB -->
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <!-- Node -->
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152867786-2622144e-99a6-45d5-9068-487548d554bd.png" alt="nodejs" width="43" height="40"/> </a> 
-<!-- Nuxt  -->
+<!-- Nuxt -->
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
 <!-- Photoshop -->
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
