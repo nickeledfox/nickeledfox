@@ -8,6 +8,10 @@
 - 📫 How to reach me: mia-7-7@mail-me.com
 
  ## &#x1f4c8; My GitHub Stats
+ 
+ ### Weekly Wactivity :computer:
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miadev&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight"> 
@@ -16,9 +20,7 @@
   <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&hide=html&layout=compact&theme=blueberry"> 
 </a>
 
-### Weekly Wactivity :computer:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miadev&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
  ## 🧰 Toolbox
