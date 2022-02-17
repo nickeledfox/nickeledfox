@@ -41,6 +41,8 @@
  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
 <!-- Express -->
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4da8fbe32d03f3cd0c099af887ce14d1bff01c3325501bae56bc5ca9563548f9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246766563746f7269666965642e636f6d253246696d61676573253246657870726573732d6a732d69636f6e2d32302e706e6726663d31266e6f66623d31" alt="express" width="40" height="40"/> </a> 
+<!-- Handlebars -->
+  <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="handlebars-js" width="55" height="45"/> </a> 
  <!-- Nunjucks -->
  <a href="https://mozilla.github.io/nunjucks/" target="_blank" rel="noreferrer"> <img src="https://eseom.gallerycdn.vsassets.io/extensions/eseom/nunjucks-template/0.4.2/1620376601793/Microsoft.VisualStudio.Services.Icons.Default" alt="nunjucks" height="40"/></a>
 <!-- Figma -->
@@ -87,8 +89,6 @@
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
 <!--  Mysql  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="45"/> </a>
-<!-- Handlebars -->
-  <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="handlebars-js" width="55" height="45"/> </a> 
  </p>
 
  
