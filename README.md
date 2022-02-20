@@ -1,4 +1,4 @@
-## Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> /ᐠ｡ꞈ｡ᐟ\
+## Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 <!-- ![](https://komarev.com/ghpvc/?username=mia-7-7&color=green) -->
 
