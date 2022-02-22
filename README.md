@@ -1,6 +1,6 @@
 ## Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-<!-- ![](https://komarev.com/ghpvc/?username=mia-7-7&color=green) -->
+<!-- ![](https://komarev.com/ghpvc/?username=nickeledfox&color=green) -->
 
 <!-- - 🔭 I’m currently working on []() -->
 - 🌱 I’m currently learning Node.js 
@@ -8,7 +8,7 @@
 - 📫 How to reach me: mia-7-7@mail-me.com
 
  ## &#x1f4c8; My GitHub Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miadev&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nickeledfox&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nickeledfox&show_icons=true&theme=tokyonight"> 
