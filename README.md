@@ -111,7 +111,7 @@
  
 
  
-### Profile Trophy 🏆 
+### Profile Trophy 🏆 /ᐠ｡ꞈ｡ᐟ\ 
 <img src="https://github-profile-trophy.vercel.app/?username=nickeledfox&rank=S,A,AA,AAA,B&theme=algolia">
 
 
