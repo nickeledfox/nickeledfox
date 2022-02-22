@@ -11,10 +11,10 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miadev&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mia-7-7&show_icons=true&theme=tokyonight"> 
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nickeledfox&show_icons=true&theme=tokyonight"> 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&hide=html&layout=compact&theme=blueberry"> 
+  <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickeledfox&hide=html&layout=compact&theme=blueberry"> 
 </a>
 
 
