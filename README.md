@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: mia-7-7@mail-me.com
 
- ## &#x1f4c8; My GitHub Stats
+ ## &#x1f4c8; My Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nickeledfox&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
