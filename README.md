@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=nickeledfox&color=green) -->
 
-- 🔭 I’m currently working on [Blog App](https://github.com/nickeledfox/mevn-blog)
+<!-- - 🔭 I’m currently working on [Blog App](https://github.com/nickeledfox/mevn-blog) -->
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 📫 How to reach me: mia-7-7@mail-me.com -->
