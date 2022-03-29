@@ -3,7 +3,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=nickeledfox&color=green) -->
 
 <!-- - 🔭 I’m currently working on [Blog App](https://github.com/nickeledfox/mevn-blog) -->
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 📫 How to reach me: mia-7-7@mail-me.com -->
 
@@ -95,12 +95,12 @@
  </p>
 
  
- ### Learning :
+<!--  ### Learning : -->
 <!--  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> -->
 <!--  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">  -->
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+<!--  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  -->
  
----
+<!-- --- -->
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-7-7&exclude_repo=map-fetching&&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
  
