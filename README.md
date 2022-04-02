@@ -56,9 +56,11 @@
 <!--  Flask -->
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152876308-412339ca-0d43-4912-8f38-edb3a7c7eb8d.png" alt="flask" width="40" height="45"/> </a> 
   <!--  Django -->
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVymA4eo7ZV4srkU4L8gQPilwltA048UMzg&usqp=CAU" alt="django" width="40" height="45"/> </a> 
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/161361322-af66fa15-93b2-433d-869d-fad5ab4ca530.png" alt="django" width="40" height="40"/> </a> 
 <!--  Git -->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <!-- REST API -->
+ <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhv4IV62tasPEUYS_ks7tU4xHB8dX8LOgvA&usqp=CAU" alt="api" width="40" height="40"/> </a>  
 <!-- Graphql -->
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  
 <!-- Heroku -->
