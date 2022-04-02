@@ -60,7 +60,7 @@
 <!--  Git -->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <!-- REST API -->
- <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhv4IV62tasPEUYS_ks7tU4xHB8dX8LOgvA&usqp=CAU" alt="api" width="40" height="40"/> </a>  
+ <a href="https://www.ibm.com/cloud/learn/rest-apis" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/161362020-f5157109-b909-4439-b2a4-862e72830c40.png" alt="api" width="40" height="40"/> </a>  
 <!-- Graphql -->
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  
 <!-- Heroku -->
