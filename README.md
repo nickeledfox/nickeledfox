@@ -19,16 +19,16 @@
 
 
 
-
-
 ---
  ## 🧰 Toolbox
  
 <p align="left"> 
-<!-- NPM -->
- <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+ <!-- Terminal shell -->
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/161360971-04c858c9-767a-4894-b588-7b883e7d4307.png" alt="cli" width="40" height="40"/> </a>
 <!-- Yarn  -->
  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152867506-33dd3e0c-4f7c-4a6d-9084-d37e4be3d7e4.png" alt="yarn" width="43" height="40"/> </a>
+ <!-- NPM -->
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
  <!-- Gulp/Grunt -->
  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152888597-f58e02c3-8223-42e1-9b17-42a3e3a295a9.png" alt="gulp/grunt" height="53"/> </a>
 <!-- Webpack -->
@@ -55,6 +55,8 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <!--  Flask -->
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/152876308-412339ca-0d43-4912-8f38-edb3a7c7eb8d.png" alt="flask" width="40" height="45"/> </a> 
+  <!--  Django -->
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVymA4eo7ZV4srkU4L8gQPilwltA048UMzg&usqp=CAU" alt="django" width="40" height="45"/> </a> 
 <!--  Git -->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <!-- Graphql -->
