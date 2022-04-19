@@ -3,7 +3,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=nickeledfox&color=green) -->
 
 <!-- - 🔭 I’m currently working on [Blog App](https://github.com/nickeledfox/mevn-blog) -->
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django/React with TypeScript
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 📫 How to reach me: mia-7-7@mail-me.com -->
 
@@ -59,8 +59,6 @@
  <a href="https://www.ibm.com/cloud/learn/rest-apis" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/81501711/161362020-f5157109-b909-4439-b2a4-862e72830c40.png" alt="api" width="45" height="40"/> </a>  
 <!-- Graphql -->
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  
-<!-- Heroku -->
- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
  <!-- Chai -->
  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" alt="mocha" height="42"/> </a>
 <!-- Mocha -->
@@ -80,9 +78,7 @@
 <!--  Selenium  -->
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <!--  Mysql  -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="45"/> </a>
-<!--  Sqlite  -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="45"/> </a> 
  <!-- Postgresql -->
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <!-- Tailwind -->
