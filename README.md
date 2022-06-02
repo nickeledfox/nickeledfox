@@ -1,4 +1,4 @@
-## Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Hi there, I'm Mia! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 
 <!-- ![](https://komarev.com/ghpvc/?username=nickeledfox&color=green) -->
 
