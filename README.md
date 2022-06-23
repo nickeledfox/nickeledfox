@@ -4,20 +4,22 @@
 
 <!-- - 🔭 I’m currently working on [Blog App](https://github.com/nickeledfox/mevn-blog) -->
 - 🌱 I’m currently learning Django/React with TypeScript
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects/Full stack projects
 - 📫 How to reach me: nickeledfox@post.com
 
  ## &#x1f4c8; My Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nickeledfox&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<details>
+ <br/>
+  <summary>Github Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nickeledfox&show_icons=true&theme=tokyonight"> 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickeledfox&hide=html&layout=compact&theme=blueberry"> 
 </a>
-
-
+</details>
 
 ---
  ## 🧰 Toolbox
