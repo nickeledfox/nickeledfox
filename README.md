@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on open source projects/Full stack projects
 - 📫 How to reach me: nickeledfox@post.com
 
- ## &#x1f4c8; My Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nickeledfox&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<!--  ## &#x1f4c8; My Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nickeledfox&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <details>
  <br/>
